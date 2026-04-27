@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -s "$1" -X GET -H "X-HolbertonSchool-User-Id: 98"
+curl -s -X GET -H "X-HolbertonSchool-User-Id:98" "$1"
